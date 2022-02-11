@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2? family= Lobster & family= Сталинский+One & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+#test1 {
+    color: red;
+    font-family: Lobster;
+    font-size: 45px;
+}
+
+#test2 {
+    color: blue;
+    font-family: Stalinist One;
+    font-size: 50px;
+}
+
+#test3 {
+    color: rgb(94, 255, 0);
+    font-family: Marck Script;
+    font-size: 53px;
+}
